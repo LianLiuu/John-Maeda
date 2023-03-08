@@ -1,0 +1,7 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  MC _another_try.vcxproj -> C:\Users\Lilia\Downloads\of_v0.11.2_vs2017_release (1)\openframeworks\apps\myApps\MC _another_try\bin\MC _another_try_debug.exe
+  \openframeworks\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\*) was unexpected at this time.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: The command "for /d %%f in (C:\Users\Lilia\Downloads\of_v0.11.2_vs2017_release (1)\openframeworks\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\*) do (if exist %%f\lib\vs\Win32\*.dll ( robocopy "%%f\lib\vs\Win32" "C:\Users\Lilia\Downloads\of_v0.11.2_vs2017_release (1)\openframeworks\apps\myApps\MC _another_try\bin" "*.dll" /njs /njh /np /fp /bytes ))
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: if errorlevel 1 exit 0 else exit %errorlevel%
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd" exited with code 255.
